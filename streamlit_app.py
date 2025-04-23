@@ -1,12 +1,3 @@
-import pandas as pd
-import numpy as np
-import faiss
-import torch
-from sentence_transformers import SentenceTransformer
-from openai import OpenAI
-import streamlit as st
-import os
-
 # API key
 with open("API_KEY.txt", "r") as f:
     api_key = f.read().strip()
