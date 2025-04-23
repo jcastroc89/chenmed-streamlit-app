@@ -1,8 +1,3 @@
-pip install faiss-cpu
-
-pip install streamlit
-
-# Packages Used
 import pandas as pd
 import numpy as np
 import faiss
