@@ -1,6 +1,6 @@
-!pip install faiss-cpu
+pip install faiss-cpu
 
-! pip install streamlit
+pip install streamlit
 
 # Packages Used
 import pandas as pd
